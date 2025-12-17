@@ -1,6 +1,8 @@
 const variants = {
-  primary: 'bg-primary-600 text-white hover:bg-primary-700 active:bg-primary-800 disabled:bg-primary-300',
-  secondary: 'bg-white text-gray-700 border border-gray-300 hover:bg-gray-50 disabled:bg-gray-100',
+  primary:
+    'bg-white text-black hover:bg-gray-100 active:bg-gray-200 disabled:bg-gray-300',
+  secondary:
+    'bg-black text-white hover:bg-gray-900 active:bg-gray-800 disabled:bg-gray-400',
 };
 
 const sizes = {
