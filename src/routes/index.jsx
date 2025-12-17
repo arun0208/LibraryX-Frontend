@@ -6,7 +6,7 @@ import DashboardLayout from '../pages/dashboard/DashboardLayout'
 
 // Import Pages
 import LoginPage from '../pages/auth/LoginPage'
-import SignupPage from '../pages/auth/SignupPage'
+import SignupPage from '../pages/auth/SignUpPage'
 import HomePage from '../pages/dashboard/HomePage'
 import NotFoundPage from '../pages/NotFoundPage'
 
